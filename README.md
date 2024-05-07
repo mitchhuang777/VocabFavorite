@@ -1,4 +1,4 @@
-# coolapp
+# vocabfavorite
 
 A new Flutter project.
 
